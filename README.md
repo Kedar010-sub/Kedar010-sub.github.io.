@@ -38,3 +38,4 @@
     <p>&copy; 2024 Kedar Kothe. All rights reserved.</p>
     <p><a href="#top">Back to top</a></p>
 </footer>
+theme: minima
