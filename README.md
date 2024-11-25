@@ -1,61 +1,40 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Kedar Kothe - Portfolio</title>
-  <link rel="stylesheet" href="style.css">
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
-</head>
-<body>
-  <header class="hero">
-    <div class="container">
-      <h1>Kedar Kothe</h1>
-      <p>Full-Business | Financial Analyst</p>
-    </div>
-  </header>
-
-  <nav class="navbar">
-    <div class="container">
-      <a href="#about">About</a>
-      <a href="#projects">Projects</a>
-      <a href="#contact">Contact</a>
-    </div>
-  </nav>
-
-  <section id="about" class="about">
-    <div class="container">
-      <h2>About Me</h2>
-      <p>
-       👋 Hi, I'm Kedar Kothe, A passionate about leveraging data-driven insights to drive business growth and innovation.. I enjoy learning new technologies and working on exciting projects.
-      </p>
-    </div>
-  </section>
-
-  <section id="projects" class="projects">
-    <div class="container">
-      <h2>Projects</h2>
-      <ul>
+<header>
+    <h1>Welcome to My Portfolio</h1>
+    <p>Your go-to place for all my projects and updates.</p>
+</header>
+<nav>
+    <ul>
+        <li><a href="#about">About Me</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+</nav>
+<section id="about">
+    <h2>About Me</h2>
+    <p>👋 Hello I am KeDaR KoThe, I am passionate about leveraging data-driven insights to drive business growth and innovation. With a strong foundation in business analytics, digital marketing, and visualization tools, I enjoy solving complex problems and transforming data into actionable strategies. I specialize in Power BI and Tabluea.</p>
+</section>
+<section id="projects">
+    <h2>Projects</h2>
+    <ul>
         <li>
+            <h3>Project 1: My Portfolio</h3>
+            <p>A responsive personal portfolio website.</p>
+            <a href="https://github.com/yourusername/portfolio" target="_blank">View on GitHub</a>
         </li>
-      </ul>
-    </div>
-  </section>
-
-  <section id="contact" class="contact">
-    <div class="container">
-      <h2>Contact Me</h2>
-      <p>
-        Email: <a href="mailto:kedar@example.com">kedar.kothe2008@gmail.com</a><br>
-        GitHub: <a href="https://github.com/kedar010-sub" target="_blank">(https://github.com/Kedar010-sub)</a>
-      </p>
-    </div>
-  </section>
-
-  <footer class="footer">
-    <div class="container">
-      <p>&copy; 2024 Kedar Kothe. All rights reserved.</p>
-    </div>
-  </footer>
-</body>
-</html>
+        <li>
+            <h3>Project 2: Weather App</h3>
+            <p>An app that shows current weather using a public API.</p>
+            <a href="https://your-weather-app-link.com" target="_blank">Live Demo</a>
+        </li>
+    </ul>
+</section>
+<section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: <a href="mailto:yourname@example.com">kedar.kothe2008@gmail.com</a></p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">[Your LinkedIn](https://www.linkedin.com/in/kedar-kothe-4533b8187/)</a></p>
+    <p>GitHub: <a href="https://github.com/yourusername" target="_blank">[Your GitHub](https://github.com/Kedar010-sub)</a></p>
+</section>
+<footer>
+    <p>&copy; 2024 Kedar Kothe. All rights reserved.</p>
+    <p><a href="#top">Back to top</a></p>
+</footer>
