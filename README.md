@@ -35,7 +35,33 @@
     <p>GitHub: <a href="https://github.com/yourusername" target="_blank">[Your GitHub](https://github.com/Kedar010-sub)</a></p>
 </section>
 <footer>
+    remote_theme: lorepirri/cayman-blog
+body {
+    background-color: #0d0d0d;
+    color: #f0f0f0;
+    font-family: 'Courier New', Courier, monospace;
+}
+a {
+    color: #00ffff;
+    text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff;
+}
+h1, h2, h3 {
+    color: #ff00ff;
+    text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;
+}
+button {
+    background: linear-gradient(90deg, #ff00ff, #00ffff);
+    border: none;
+    padding: 10px 20px;
+    color: #fff;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-size: 16px;
+    box-shadow: 0 0 10px #ff00ff, 0 0 20px #00ffff;
+}
+theme: minima
+
     <p>&copy; 2024 Kedar Kothe. All rights reserved.</p>
     <p><a href="#top">Back to top</a></p>
 </footer>
-theme: minima
+
