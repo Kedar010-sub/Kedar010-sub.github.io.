@@ -11,7 +11,7 @@
 </nav>
 <section id="about">
     <h2>About Me</h2>
-    <p>👋 Hello I am KeDaR KoThe, I am passionate about leveraging data-driven insights to drive business growth and innovation. With a strong foundation in business analytics, digital marketing, and visualization tools, I enjoy solving complex problems and transforming data into actionable strategies. I specialize in Power BI and Tabluea.</p>
+    <p></p>
 </section>
 <section id="projects">
     <h2>Projects</h2>
